@@ -1,0 +1,9 @@
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\bin\Debug\netstandard2.0\Packets.deps.json
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\bin\Debug\netstandard2.0\Packets.dll
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\bin\Debug\netstandard2.0\Packets.pdb
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\obj\Debug\netstandard2.0\Packets.csprojAssemblyReference.cache
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\obj\Debug\netstandard2.0\Packets.AssemblyInfoInputs.cache
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\obj\Debug\netstandard2.0\Packets.AssemblyInfo.cs
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\obj\Debug\netstandard2.0\Packets.csproj.CoreCompileInputs.cache
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\obj\Debug\netstandard2.0\Packets.dll
+E:\Documents\Uni\OneDrive - Staffordshire University\Year 2\Concurrent Network Applications\Core3\Packets2\obj\Debug\netstandard2.0\Packets.pdb
